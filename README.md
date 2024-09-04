@@ -1,5 +1,5 @@
 # PAndemic TRacking OnLine (PATROL)
-An Android App which aims to protect users from pandemic by providing useful information. Users can view crowedness of a location through our real-time heatmap, search for history data of pandemic cases, self-report their symptoms, and checkout newest information from CDC Covid website.
+An Android App designed to help users stay informed and safe during pandemics by providing real-time heatmaps, historical data on pandemic cases, self-reporting features, and CDC updates.
 
 # Project Introduction
-This Android App was developed by a team of 6. I was responsible for the development of the History Data Visualization feature, which corresponds to 1/4 of the frontend development work (in Kotlin). Besides that, I contributed to 90% of the documentation work since the software was majorly based on my previous architectural design plan.
+Developed by a team of 6, I led the overall software architecture design, implemented the History Data Visualization feature (25% of the frontend in Kotlin), and contributed 90% of the project documentation.
