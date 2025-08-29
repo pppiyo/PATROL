@@ -15,6 +15,6 @@ https://youtu.be/M955l1PR6Ak
 https://github.com/pppiyo/PATROL/blob/master/CSCI_578_Final_Project.pdf
 
 # My Contribution
-I led the software architecture design, implemented the History Data Visualization feature (25% of the frontend in Kotlin), and contributed 90% of the project documentation.
+I led the software architecture design, implemented the History Data Visualization feature (25% of the frontend in Kotlin), and authored 90% of the design document.
 
 While we did not specify a team leader, I played a major part in tracking the project progress, initiating task assignment, and organizing team meetings.
